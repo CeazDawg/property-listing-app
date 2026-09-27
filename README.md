@@ -86,3 +86,6 @@ export default defineConfig([
 - **Lighthouse Score:** 100/100 on Accessibility.
 - **Keyboard Navigation:** Full page traversable via `Tab` / `Shift+Tab` with visible focus rings on all interactive elements.
 - **Screen Reader Support:** Validated semantic landmarks (`main`, `article`, `aside`) and explicit `aria-label` bindings across external links and form controls.
+
+## Peer Review
+*Pending partner review.*
