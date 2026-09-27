@@ -88,5 +88,8 @@ export default defineConfig([
 - **Screen Reader Support:** Validated semantic landmarks (`main`, `article`, `aside`) and explicit `aria-label` bindings across external links and form controls.
 
 ## Peer Review
-*Pending partner review.*
-.
+- **Reviewer:** ChrisN516
+- **Strength:** Clear, organized semantic HTML structure, proper input/form labels, and descriptive dynamic image alt text.
+- **Risk:** Minor risk of long nav titles wrapping on very small screens, though layout holds up well overall.
+- **Tested Recommendation:** Verified full responsive layout behavior across viewports and confirmed modular component integration works seamlessly across viewports.
+
